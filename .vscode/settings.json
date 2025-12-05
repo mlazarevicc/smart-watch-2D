@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.includePath": [
+      "${workspaceFolder}/include",
+      "/opt/homebrew/opt/glfw/include",
+      "/opt/homebrew/opt/glew/include"
+    ],
+    "files.associations": {
+      "*.vert": "glsl",
+      "*.frag": "glsl"
+    }
+  }
